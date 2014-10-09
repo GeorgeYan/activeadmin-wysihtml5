@@ -15,7 +15,7 @@ interface using [wysihtml5](https://github.com/xing/wysihtml5).
 # Gemfile
 
 gem 'activeadmin-dragonfly', github: 'stefanoverna/activeadmin-dragonfly'
-gem 'activeadmin-wysihtml5', github: 'stefanoverna/activeadmin-wysihtml5'
+gem 'activeadmin-wysihtml5', github: 'GeorgeYan/activeadmin-wysihtml5'
 ```
 
 Now install the migrations:
